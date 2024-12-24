@@ -13,7 +13,7 @@
       <link>//localhost:4321/post/a-test/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/post/a-test/</guid>
-      <description></description>
+      <description>&lt;p&gt;My first new blog test.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
