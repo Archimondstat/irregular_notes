@@ -1,114 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/</loc>
+    <loc>//localhost:4321/post/a-test/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/post/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/blogdown/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/slum/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/getting-started/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/slum/</loc>
-    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/writing-a-post/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/slumstyle/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/slumstyle/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/writing-a-post/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/colour-palettes/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/colour-palettes/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/customising-headers/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/customising-headers/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/deploying-to-github/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/github-pages/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/github-pages/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/deploying-to-github/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/notes-on-hugo/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/hugo/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/notes-on-hugo/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/kunoichi/</loc>
+  </url><url>
+    <loc>//localhost:4321/project/kunoichi/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>//localhost:4321/tags/kunoichi/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/kunoichi/</loc>
+  </url><url>
+    <loc>//localhost:4321/other/kunoichi/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/slumdown/</loc>
+  </url><url>
+    <loc>//localhost:4321/other/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>//localhost:4321/project/</loc>
+    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/slumdown/</loc>
+    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/about/</loc>
+  </url><url>
+    <loc>//localhost:4321/categories/</loc>
   </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
